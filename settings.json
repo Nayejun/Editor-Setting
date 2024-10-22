@@ -1,0 +1,38 @@
+{
+   "editor.tabSize": 2,
+   "editor.fontSize": 14,
+   "editor.renderWhitespace": "boundary",
+   "editor.cursorStyle": "line",
+   "editor.columnSelection": false,
+   "editor.comments.ignoreEmptyLines": true,
+   "editor.defaultFormatter": "esbenp.prettier-vscode",
+   "editor.guides.bracketPairs": true,
+   "editor.cursorBlinking": "smooth",
+   "editor.cursorSmoothCaretAnimation": "on",
+   "files.autoSave": "off",
+   "files.exclude": {
+      "**/.classpath": true,
+      "**/.history": true,
+      "**/.project": true,
+      "**/.settings": true
+   },
+   "workbench.editor.enablePreview": false,
+   "workbench.iconTheme": "material-icon-theme",
+   "workbench.sideBar.location": "left",
+   "workbench.tree.expandMode": "doubleClick",
+   "workbench.editor.highlightModifiedTabs": true,
+   "workbench.editor.labelFormat": "short",
+   "workbench.editor.scrollToSwitchTabs": false,
+   "workbench.colorTheme": "Atom One Dark",
+   "scm.diffDecorationsGutterPattern": {
+      "added": true
+   },
+   "terminal.integrated.copyOnSelection": true,
+   "terminal.integrated.cursorBlinking": true,
+   "terminal.integrated.fontSize": 14,
+   "editor.formatOnSave": true,
+   "prettier.tabWidth": 3,
+   "prettier.printWidth": 80,
+   "window.zoomLevel": -0.5,
+   "todohighlight.isEnable": false
+}
